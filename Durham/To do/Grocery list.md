@@ -1,4 +1,0 @@
-
-Stationary 
-	Pens
-Snacks?

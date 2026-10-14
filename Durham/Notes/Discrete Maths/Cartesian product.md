@@ -1,1 +1,0 @@
-An Operation that combines 2 sets to create a new set of all possible ordered pairs

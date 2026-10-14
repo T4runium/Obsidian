@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68187d70dbe2cb2d",
+            "id": "a4c85aba316dfc1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Maths for Computer Science/Linear Algebra/Vectors.md",
+                "file": "Notes/Computer Systems/De Morgan's Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vectors"
+              "title": "De Morgan's Law"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph:3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,26 +190,33 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "68187d70dbe2cb2d",
+  "active": "a4c85aba316dfc1b",
   "lastOpenFiles": [
-    "Notes/Maths for Computer Science/Linear Algebra/Fields.md",
-    "Notes/Maths for Computer Science/Linear Algebra/Vectors.md",
+    "Notes/Computer Systems/Switches.md",
+    "Notes/Computer Systems/De Morgan's Law.md",
+    "Notes/Computer Systems/Introductions to Number Systems.md",
+    "Notes/Discrete Maths/Addition Principle.md",
+    "Notes/Discrete Maths/Set Theory.md",
+    "Notes/Discrete Maths/Permutation.md",
+    "Notes/Discrete Maths/Multiplication Principle.md",
+    "Notes/Discrete Maths/Arrangements.md",
+    "Notes/Discrete Maths/Configurations.md",
     "Notes/Maths for Computer Science/Linear Algebra/Groups.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Fields.md",
     "Notes/Maths for Computer Science/Linear Algebra/Binary Operations.md",
-    "Notes/Discrete Maths/Arrangements and Permulations.md",
+    "Notes/Maths for Computer Science/Calculus/Notations.md",
+    "Distinguishable balls and bins.md",
+    "Cartesian product.md",
+    "Notes/Discrete Maths/Cartesian product.md",
+    "Notes/Discrete Maths/Distinguishable balls and bins.md",
+    "Notes/Algorithms and Data Structures/Fundamental definitions.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Vectors.md",
     "Notes/Maths for Computer Science/Linear Algebra",
     "Notes/Maths for Computer Science/Calculus",
-    "Notes/Discrete Maths/Distinguishable balls and bins.md",
-    "Notes/Discrete Maths/Configurations.md",
-    "Notes/Discrete Maths/Set Theory.md",
-    "Notes/Discrete Maths/Cartesian product.md",
     "Cartesian Product.md",
-    "Notes/Computer Systems/Introductions to Number Systems.md",
-    "Notes/Maths for Computer Science/Calculus/Notations.md",
     "Notes/Maths for Computer Science",
     "Notes/Untitled.md",
     "Notes/Computer Systems",
-    "Notes/Algorithms and Data Structures/Fundamental definitions.md",
     "Notes/Discrete Maths",
     "To do/General.md",
     "Notes/Algorithms and Data Structures",

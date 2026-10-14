@@ -1,5 +1,0 @@
-- [ ] Start a bank account 
-- [x] Join super computing society
-- [ ] insurance 
-- [ ] learn html
-- [ ] learn js
