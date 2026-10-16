@@ -8,7 +8,7 @@ A field is a set F with two operations, usually addition and subtraction such th
 $$
 a(b + c) = ab + ac 
 $$
-Every field has 2 [[groups]]:
+Every field has 2 [[Groups]]:
 - an additive group (F, +)
 - a multiplicative group (F / {0}, X)
 
