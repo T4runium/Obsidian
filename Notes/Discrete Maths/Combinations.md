@@ -5,6 +5,9 @@ Formally, a combination on a set $S$ is identified by the multiplicities $m_{i},
 Size of a combination is the total number of selections size $k$ as $k$ combinations
 
 # Standard problem 3:
+
+^28b8fd
+
 How many k-element combinations can be made from set $S$ where $|S|$ = n and $n > k$
 
 From [[Arrangements#^0a665c|SP2]], number of permutations = $P(n, k) = \frac{n!}{(n - k)!}$
