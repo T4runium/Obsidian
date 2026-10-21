@@ -21,6 +21,8 @@ Both SP1 and SP2 lead us to the **[[Multiplication Principle]]**
 
 # [[Combinations#^28b8fd|Standard Problem 3]]
 $$
-Combinations = 
+Combinations = \frac{n!}{k!(n - k)!}
 $$
+notation = $^nC_{k}$
+
 
