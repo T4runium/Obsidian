@@ -9,7 +9,7 @@ arrangements are just picking from the set so a [[Set Theory#^888b0e|Cartesian p
 $\therefore \text{Num of combinations }=|S|^k = n^k$
 
 **Standard Problem 2** ([[Configurations#^fd7bcd|distinguishable balls and bins]])
-How many arrangements of are here of length $k$, from set $S$ where $|S| = n$ and there are no repetitions.
+How many arrangements of are here of length $k$, from set $S$ where $|S| = n$ and there are no repetitions. ^0a665c
 
 $$
 Arrangements = \frac{n!}{(n - k)!}
@@ -17,3 +17,4 @@ $$
 Both SP1 and SP2 lead us to the **[[Multiplication Principle]]**
 
 
+Standard problem 3
