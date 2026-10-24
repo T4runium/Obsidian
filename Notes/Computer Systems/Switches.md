@@ -1,6 +1,8 @@
 Binary can be represented as high and low voltage (1 is high and 0 is low)
 Normal electrical switches CAN be used but are extremely extremely slow and impractical
 
+Switches using high and low because on and off require perfect precision which may not happen due to switch degradation and temperature interference 
+
 **Relay switches**: 
 - A mechanical contact pulled shut by an electro-magnet
 - audible, slow and wears down fast
