@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "ab3af69b9859bccf",
+    "id": "971b8e19e2aebda7",
     "type": "split",
     "children": [
       {
-        "id": "c2acc65064772897",
+        "id": "424e83579a13267f",
         "type": "tabs",
         "children": [
           {
-            "id": "49067267fa4a6928",
+            "id": "a20b6de599e49728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Computer Systems/Introductions to Number Systems.md",
+                "file": "Notes/Maths for Computer Science/Linear Algebra/Groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introductions to Number Systems"
+              "title": "Groups"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3fa11fd75c65caca",
+    "id": "aa15b2cb3e6ba0b8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "21adb986dcdf8455",
+        "id": "d4ea8a1c05a96ff9",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -46,7 +46,7 @@
         }
       },
       {
-        "id": "3064339e2777663e",
+        "id": "c1054d250b6e5035",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +63,7 @@
         }
       },
       {
-        "id": "ca3f34d020d2c1fb",
+        "id": "e87b5084ba4d5566",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -78,7 +78,7 @@
         }
       },
       {
-        "id": "33a5405ce53ea02a",
+        "id": "ba9765e73d74feb3",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "id": "b4d24424f21471ce",
+        "id": "170a4bccb436b39a",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -108,16 +108,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "c08bd69e49c8c7a7",
+    "id": "cdf35f4b827af2e8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f63cc33fa2f1c0ac",
+        "id": "d2548806383802e5",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/Maths for Computer Science/Linear Algebra/Vectors.md",
+            "file": "Notes/Discrete Maths/Arrangements.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,12 +131,11 @@
         }
       },
       {
-        "id": "24f32e1d2ce9d411",
+        "id": "3b29c58a852118eb",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/Maths for Computer Science/Linear Algebra/Vectors.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,12 +144,11 @@
         }
       },
       {
-        "id": "294d041e924fe6fc",
+        "id": "8c1aa92f9f9e172a",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/Maths for Computer Science/Linear Algebra/Vectors.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -174,9 +172,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49067267fa4a6928",
+  "active": "a20b6de599e49728",
   "lastOpenFiles": [
+    "Notes/Maths for Computer Science/Linear Algebra/Basis.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Binary Operations.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Span.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Linear Combinations.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Linear Independence.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Vectors.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Matrices.md",
+    "Notes/Maths for Computer Science/Calculus/Differentiation.md",
+    "Notes/Discrete Maths/Binomial Theorem.md",
+    "Notes/Computer Systems/Encoders and Decoders.md",
+    "Notes/Computer Systems/Adding and Subraction.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Subspaces.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Cauchy-Schwarz Inequality.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Dimension.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Dot product.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Triangle Inequality.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Groups.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Fields.md",
+    "Notes/Maths for Computer Science/Linear Algebra/Orthogonality.md",
     "Notes/Algorithms and Data Structures/Fundamental definitions.md",
-    "Notes/Maths for Computer Science/Linear Algebra/Vectors.md"
+    "Notes/Computer Systems/Introductions to Number Systems.md",
+    "Notes/Computer Systems/De Morgan's Law.md",
+    "Notes/Computer Systems/Switches.md",
+    "Notes/Discrete Maths/Permutation.md",
+    "Notes/Discrete Maths/Multiplication Principle.md",
+    "Notes/Discrete Maths/Addition Principle.md",
+    "Notes/Maths for Computer Science/Linear Algebra",
+    "Notes/Maths for Computer Science/Calculus",
+    "Notes/Maths for Computer Science",
+    "Notes/Discrete Maths",
+    "Notes/Computer Systems",
+    "Notes/Algorithms and Data Structures",
+    "Notes"
   ]
 }
