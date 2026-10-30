@@ -17,3 +17,5 @@ Tristates are not useful by themselves, they need a tristate buffer and an encod
 
 # ALU
 An ALU takes 2 operands and function code and returns the result
+
+

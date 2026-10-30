@@ -25,4 +25,11 @@ Combinations = \frac{n!}{k!(n - k)!}
 $$
 notation = $^nC_{k}$
 
+# Standard Problem 4
+How many arrangements are there of a list of objects in which some objects are repeating where $n_{i}$ is the number of repetitions of an object and $n$ is the total
+
+$$
+P(n; n_{1}, n_{2},\dots,n_{r}) = \frac{n!}{n_{1}!n_{2}!\dots n_{r}!}
+$$
+
 
