@@ -11,14 +11,14 @@ For inputs A, B and $C_{in}$ (from the previous adder) and outputs sum S and $C_
 
 $$
 S = A \oplus B \oplus C_{in} \\
-C_{out} = (A.B) + (B.C) + (A.C)
+C_{out} = (A.B) + (B.C_{in}) + (A.C_{in})
 $$
 
-For k boolean inputs there are $2^{2^k}$  possible logic functions
+For k boolean inputs there are $2^{2^k}$  possible logic functions ($2^k$ rows in the truth table, each output 0 or 1: [[Arrangements#Standard Problem 1|SP1]] twice)
 
 # Ripple Carry Adder
 
-Ripple carry adders are just full adders stacked on top of each others to accommodate more bits.
+Ripple carry adders are just full adders stacked on top of each other to accommodate more bits.
 
 n bits = n full adders
 

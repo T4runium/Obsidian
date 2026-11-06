@@ -3,11 +3,11 @@ $$
 (a + b)^n = \sum_{k = 0}^{n} {}^nC_{k} \times a^k b^{n - k}
 $$
 Any term in this expansion is a list of length $n$ consisting of $a$ and $b$.
-the number of times $a$ appears for a given term is $a^nb^{n - k}$
+a term with $k$ $a$'s is $a^kb^{n - k}$
 Then, the number of times $a^kb^{n - k}$ is the number of ways $k$ number of $a$'s can be chosen $\therefore ^{n}C_{k}$ possible ways.
 
 # Identities
-**1.**
+**1.** (number of subsets of a set of size $n$, see [[Set Theory]])
 $$
 \begin{aligned}
 \sum_{k = 0}^n {}^{n}C_{k} &= 2^n \\
@@ -22,7 +22,7 @@ $$
 let $x = 1$
 $$
 \begin{aligned}
-&2^n = \sum_{k = 0}^{n} {}^nC_{k} \times \\
+&2^n = \sum_{k = 0}^{n} {}^nC_{k} \\
 &\therefore True
 \end{aligned}
 $$
@@ -44,6 +44,7 @@ $$
 &\therefore True
 \end{aligned}
 $$
+Only for $n \geq 1$: when $n = 0$ the sum is ${}^0C_{0} = 1$ (since $0^0 = 1$)
 
 **3.**
 
@@ -82,3 +83,5 @@ n{2}^{n - 1} &= \sum_{k = 0}^n {}^nC_{k}(k) \\
 \therefore True
 \end{aligned}
 $$
+
+Proved by [[Mathematical Induction]] too. Negative or non-integer powers: [[Extended Binomial Coefficients]]

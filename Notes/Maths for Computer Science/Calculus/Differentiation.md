@@ -39,7 +39,7 @@ and
 $$
 f(a) = L 
 $$
-If we can keep differentiating and function and still get
+If we can keep differentiating a function and still get
  a result, its a smooth function
 
 # Product Rule
@@ -58,7 +58,7 @@ $$
 
 
 # Chain Rule
-iif $f(x)$ and $g(x)$ are differentiable at $x_0$ and $g(x_{0})$ respectevily, then 
+if $g(x)$ is differentiable at $x_0$ and $f(x)$ is differentiable at $g(x_{0})$, then 
 
 $$
 \frac{d}{dx} f(g(x)) = \frac{df}{dg} \frac{dg}{dx} or f'(g(x))g'(x) \text{ at } x_{0}

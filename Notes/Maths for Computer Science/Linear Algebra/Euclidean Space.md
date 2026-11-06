@@ -4,9 +4,9 @@ $$
 $$
 
 It holds that :
- - $||v||  \geq 0$ and $||v|| = 0$ **only** if $v = 0$  (Positive Definitions)
+ - $||v||  \geq 0$ and $||v|| = 0$ **only** if $v = 0$  (Positive definiteness)
  - $||kv|| = |k| . ||v||$                                           (Absolute homogeneity)
- - $||u + v|| \leq ||u|| + ||v||$                             (Triangle Inequality)
+ - $||u + v|| \leq ||u|| + ||v||$                             ([[Triangle Inequality]])
 
 Unit vector u = normalised v
 $$

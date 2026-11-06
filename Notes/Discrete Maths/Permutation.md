@@ -2,7 +2,7 @@ A permutation on set $S$ is a list of elements of $S$ where each element of $S$ 
 
 if $|S| = n$ then there are $n!$ permutations of $S$
 Proof:
-SP2 but k = n
+[[Arrangements#^0a665c|SP2]] but k = n
 $$
 \begin{aligned}
 SP2 = \frac{n!}{(n - k)!} \\
@@ -17,3 +17,5 @@ P(n, r) denotes the number of $r$ permutations on set of size $n$
 $$
 P(n, r) = \frac{n!}{(n - r)!}
 $$
+
+$P(n, 0) = 1$ (the empty list) and $P(n, r) = 0$ for $r > n$

@@ -10,7 +10,7 @@ N =\sum_{i} b_{i}d_{i}
 $$  where d is the digit and b is the base
 
 Binary: base 2
-computers use Binary as it is easy to represent using electricity (1 is on, 2 is off)
+computers use Binary as it is easy to represent using [[Switches|electricity]] (1 is on, 0 is off)
 Max Value represented by n bits = $2^n - 1$
 
 Hexadecimal = base 16

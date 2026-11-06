@@ -10,4 +10,4 @@ Data Structure:
  Random Access Machines (RAM*):
 - Memory is an infinite array.
 - Instructions are executed sequentially.
-- Instrcutions take unit time to execute. 
+- Instructions take unit time to execute. 

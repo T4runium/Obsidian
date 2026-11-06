@@ -15,8 +15,8 @@ Switches using high and low because on and off require perfect precision which m
 
 **MOSFETS** (Metal Oxide Semiconductor Field Effect Transistor):
 - A switch made of silicon with no moving parts and nothing to wear out
-- Extremely small so are densely pack
+- Extremely small so are densely packed
 - Very fast, low power
 
-Silicon is not a good conductor of electricity but its cheap and abundent.
+Silicon is not a good conductor of electricity but its cheap and abundant.
 It is chemically manipulated to make it less pure resulting in better electrical conduction
